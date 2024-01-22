@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Kurs tworzenia stron WWW cz.2"
+		},
+		{
+			"path": "../Projekt#1"
+		},
+		{
+			"path": "../../druga strona"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projekt#2"
+	}
+}
