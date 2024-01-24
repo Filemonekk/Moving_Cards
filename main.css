@@ -149,7 +149,7 @@ h3 {
 
 }
 
-@media (min-width:800px ) {
+/*@media (min-width:800px ) {
     body {
         background-image: linear-gradient(315deg, #baba00 0%, #ba1313 74%);
     }
